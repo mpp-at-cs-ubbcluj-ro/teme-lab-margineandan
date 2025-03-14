@@ -1,0 +1,64 @@
+2025-03-14 02:43:27 [main] INFO  main.CarsDBRepository - Initializing CarsDBRepository with properties: {} 
+2025-03-14 02:43:27 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:43:27 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:43:27 [main] INFO  main.JdbcUtils - trying to connect to database ... null
+2025-03-14 02:43:27 [main] INFO  main.JdbcUtils - user: null
+2025-03-14 02:43:27 [main] INFO  main.JdbcUtils - pass: null
+2025-03-14 02:43:27 [main] ERROR main.JdbcUtils - java.sql.SQLException: The url cannot be null
+2025-03-14 02:43:27 [main] TRACE main.JdbcUtils - Exit
+2025-03-14 02:45:29 [main] INFO  main.CarsDBRepository - Initializing CarsDBRepository with properties: {} 
+2025-03-14 02:45:29 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:45:29 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:45:29 [main] INFO  main.JdbcUtils - trying to connect to database ... null
+2025-03-14 02:45:29 [main] INFO  main.JdbcUtils - user: null
+2025-03-14 02:45:29 [main] INFO  main.JdbcUtils - pass: null
+2025-03-14 02:45:29 [main] ERROR main.JdbcUtils - java.sql.SQLException: The url cannot be null
+2025-03-14 02:45:29 [main] TRACE main.JdbcUtils - Exit
+2025-03-14 02:46:09 [main] INFO  main.CarsDBRepository - Initializing CarsDBRepository with properties: {} 
+2025-03-14 02:46:09 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:46:09 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:46:09 [main] INFO  main.JdbcUtils - trying to connect to database ... null
+2025-03-14 02:46:09 [main] INFO  main.JdbcUtils - user: null
+2025-03-14 02:46:09 [main] INFO  main.JdbcUtils - pass: null
+2025-03-14 02:46:09 [main] ERROR main.JdbcUtils - java.sql.SQLException: The url cannot be null
+2025-03-14 02:46:09 [main] TRACE main.JdbcUtils - Exit
+2025-03-14 02:46:42 [main] INFO  main.CarsDBRepository - Initializing CarsDBRepository with properties: {} 
+2025-03-14 02:46:42 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:46:42 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:46:42 [main] INFO  main.JdbcUtils - trying to connect to database ... null
+2025-03-14 02:46:42 [main] INFO  main.JdbcUtils - user: null
+2025-03-14 02:46:42 [main] INFO  main.JdbcUtils - pass: null
+2025-03-14 02:46:42 [main] ERROR main.JdbcUtils - java.sql.SQLException: The url cannot be null
+2025-03-14 02:46:42 [main] TRACE main.JdbcUtils - Exit
+2025-03-14 02:47:46 [main] INFO  main.CarsDBRepository - Initializing CarsDBRepository with properties: {} 
+2025-03-14 02:47:46 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:47:46 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:47:46 [main] INFO  main.JdbcUtils - trying to connect to database ... null
+2025-03-14 02:47:46 [main] INFO  main.JdbcUtils - user: null
+2025-03-14 02:47:46 [main] INFO  main.JdbcUtils - pass: null
+2025-03-14 02:47:46 [main] ERROR main.JdbcUtils - java.sql.SQLException: The url cannot be null
+2025-03-14 02:47:46 [main] TRACE main.JdbcUtils - Exit
+2025-03-14 02:51:25 [main] INFO  main.CarsDBRepository - Initializing CarsDBRepository with properties: {} 
+2025-03-14 02:51:25 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:51:25 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:51:25 [main] INFO  main.JdbcUtils - trying to connect to database ... null
+2025-03-14 02:51:25 [main] INFO  main.JdbcUtils - user: null
+2025-03-14 02:51:25 [main] INFO  main.JdbcUtils - pass: null
+2025-03-14 02:51:25 [main] ERROR main.JdbcUtils - java.sql.SQLException: The url cannot be null
+2025-03-14 02:51:25 [main] TRACE main.JdbcUtils - Exit
+2025-03-14 02:53:08 [main] INFO  main.CarsDBRepository - Initializing CarsDBRepository with properties: {} 
+2025-03-14 02:53:08 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:53:08 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:53:08 [main] INFO  main.JdbcUtils - trying to connect to database ... null
+2025-03-14 02:53:08 [main] INFO  main.JdbcUtils - user: null
+2025-03-14 02:53:08 [main] INFO  main.JdbcUtils - pass: null
+2025-03-14 02:53:08 [main] ERROR main.JdbcUtils - java.sql.SQLException: The url cannot be null
+2025-03-14 02:53:08 [main] TRACE main.JdbcUtils - Exit
+2025-03-14 02:56:31 [main] INFO  main.CarsDBRepository - Initializing CarsDBRepository with properties: {} 
+2025-03-14 02:56:31 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:56:31 [main] TRACE main.JdbcUtils - Enter
+2025-03-14 02:56:31 [main] INFO  main.JdbcUtils - trying to connect to database ... null
+2025-03-14 02:56:31 [main] INFO  main.JdbcUtils - user: null
+2025-03-14 02:56:31 [main] INFO  main.JdbcUtils - pass: null
+2025-03-14 02:56:31 [main] ERROR main.JdbcUtils - java.sql.SQLException: The url cannot be null
+2025-03-14 02:56:31 [main] TRACE main.JdbcUtils - Exit
