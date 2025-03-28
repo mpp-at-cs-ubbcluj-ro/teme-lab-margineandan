@@ -1,0 +1,21 @@
+27 Mar 2025 20:24:52,151 INFO  repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\margi\OneDrive\Desktop\FACULTATE\AN 2 - SEMESTRUL 2\MPP\teme-lab-margineandan\TemaLab4\RepairShopDB.db
+27 Mar 2025 20:24:52,154 INFO  repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+27 Mar 2025 20:24:52,154 INFO  repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+27 Mar 2025 20:25:51,275 INFO  repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\margi\OneDrive\Desktop\FACULTATE\AN 2 - SEMESTRUL 2\MPP\teme-lab-margineandan\TemaLab4\RepairShopDB.db
+27 Mar 2025 20:25:51,282 INFO  repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+27 Mar 2025 20:25:51,283 INFO  repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+28 Mar 2025 12:30:46,363 INFO  repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\margi\OneDrive\Desktop\FACULTATE\AN 2 - SEMESTRUL 2\MPP\teme-lab-margineandan\TemaLab4\RepairShopDB.db
+28 Mar 2025 12:30:46,370 INFO  repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+28 Mar 2025 12:30:46,371 INFO  repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+28 Mar 2025 12:49:50,453 INFO  repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\margi\OneDrive\Desktop\FACULTATE\AN 2 - SEMESTRUL 2\MPP\teme-lab-margineandan\TemaLab4\RepairShopDB.db
+28 Mar 2025 12:49:50,457 INFO  repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+28 Mar 2025 12:49:50,457 INFO  repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+28 Mar 2025 12:57:24,828 INFO  repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\margi\OneDrive\Desktop\FACULTATE\AN 2 - SEMESTRUL 2\MPP\teme-lab-margineandan\TemaLab4\RepairShopDB.db
+28 Mar 2025 12:57:24,833 INFO  repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+28 Mar 2025 12:57:24,833 INFO  repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+28 Mar 2025 13:04:04,913 INFO  repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\margi\OneDrive\Desktop\FACULTATE\AN 2 - SEMESTRUL 2\MPP\teme-lab-margineandan\TemaLab4\RepairShopDB.db
+28 Mar 2025 13:04:04,918 INFO  repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+28 Mar 2025 13:04:04,919 INFO  repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
+28 Mar 2025 13:05:24,656 INFO  repository.jdbc.JdbcUtils 32 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\margi\OneDrive\Desktop\FACULTATE\AN 2 - SEMESTRUL 2\MPP\teme-lab-margineandan\TemaLab4\RepairShopDB.db
+28 Mar 2025 13:05:24,661 INFO  repository.jdbc.JdbcUtils 33 getNewConnection - user: null
+28 Mar 2025 13:05:24,661 INFO  repository.jdbc.JdbcUtils 34 getNewConnection - pass: null
